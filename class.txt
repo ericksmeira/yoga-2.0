@@ -10,3 +10,5 @@ git add - adiciona arquivos para serem comitados
 git add . - adiciona TODOS os arquivos de uma vez só 
 
 git commit
+
+git push
